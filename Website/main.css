@@ -1,3 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap);
 h1 {
     color: blue;
+    font-family: Zen Dots;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    bottom: -90px;
+}
+img {
+  border-radius: 50px;
+}
+
+button {
+  margin: 3px auto 0;
+  padding: 20px 25px;
+  position: relative;
+  bottom: 500px;
+  top: 500px;
+  left: 690px;
+  right: 690px;
+  background-color: #0000;
+  font-size: 30px;
+  border: 1px solid #000;
+}
+
+button:hover {
+  background-color: blue;
+
+}
+
+button:active {
+  background-color: white;
 }
