@@ -6,8 +6,8 @@ h1 {
     font-size: 50px;
     text-align: center;
     position: relative;
-    top: -120px;
-    bottom: -120px;
+    top: -100px;
+    bottom: -100px;
 }
 img {
   border-radius: 50px;
@@ -19,18 +19,18 @@ button {
   position: relative;
   bottom: 500px;
   top: 500px;
-  left: 690px;
-  right: 690px;
-  background-color: #0000;
+  left: 555px;
+  right: 555px;
+  background-color: #f7e98e;
   font-size: 30px;
   border: 1px solid #000;
 }
 
 button:hover {
-  background-color: blue;
+  background-color: #ffd700;
 
 }
 
 button:active {
-  background-color: white;
+  background-color: #daa520;
 }
